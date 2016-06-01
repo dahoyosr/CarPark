@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondos"
+    >
+
+    <TextView
+        android:id="@+id/titulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/datos"
+
+        />
+    <EditText
+        android:id="@+id/nombre"
+        android:layout_below="@id/titulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/nomb"
+        android:inputType="text"
+        />
+    <EditText
+        android:id="@+id/cedula"
+        android:layout_below="@id/nombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/cedula"
+        android:inputType="number"
+
+        />
+    <EditText
+        android:id="@+id/hora"
+        android:layout_below="@id/cedula"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       android:hint="@string/hora"
+        android:inputType="number"
+        />
+    <Button
+        android:id="@+id/Button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/reserva"
+        android:layout_below="@id/hora"
+        android:onClick="pasarActividad"
+
+        />
+
+</RelativeLayout>

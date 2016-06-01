@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CarPark</string>
+    <string name="add">Agregar</string>
+    <string name="help">Ayuda</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Eliminar</string>
+    <string name="nombre_parqueadero">Nombre Parqueadero</string>
+    <string name="direccion">direccion</string>
+    <string name="datos">DIGITE SUS DATOS COMPLETOS</string>
+    <string name="save">Guardar</string>
+    <string name="hellow">HELLOW</string>
+    <string name="nombre">Nombre Parqueadero</string>
+    <string name="direccions">14 de Marzo</string>
+    <string name="disponibilidad">Disponibilidad</string>
+    <string name="bienvenidos">BIENVENIDOS</string>
+
+</resources>

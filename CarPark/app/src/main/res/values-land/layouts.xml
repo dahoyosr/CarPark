@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="f_template" type="layout">@layout/template</item>
+ <item name="generar_cita_land" type="layout">@layout/activity_class_generar_cita_land</item>
+
+
+</resources>

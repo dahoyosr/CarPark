@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CarPark</string>
+    <string name="add">Agregar</string>
+    <string name="help">Ayuda</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Eliminar</string>
+    <string name="nombre_parqueadero">Nombre Parqueadero</string>
+    <string name="direccion">direccion</string>
+    <string name="datos">DIGITE SUS DATOS COMPLETOS</string>
+    <string name="save">Guardar</string>
+    <string name="hellow">HELLOW</string>
+    <string name="nombre">Nombre Parqueadero</string>
+    <string name="direccions">14 de Marzo</string>
+    <string name="disponibilidad">Disponibilidad</string>
+    <string name="bienvenidos">BIENVENIDOS</string>
+    <string name="bienvenido">BIENVENIDO</string>
+    <string name="codigo">CODIGO</string>
+    <string name="guardar">Guardar</string>
+    <string name="foto">Foto</string>
+    <string name="nom">Nombre</string>
+    <string name="cedula">Cedula</string>
+    <string name="hora">Hora Reserva</string>
+    <string name="reserva">GENERAR RESERVA</string>
+    <string name="nomb">Nombre</string>
+    <string name="listaregistro">Lista De Registro</string>
+    <string name="nombrer">Nombre</string>
+    <string name="notificacion">notificacion</string>
+    <string name="usuario">usuario</string>
+    <string name="password">password</string>
+    <string name="ingresar">INGRESAR</string>
+</resources>
